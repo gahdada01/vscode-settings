@@ -9,6 +9,12 @@
     "workbench.sideBar.location": "right",
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
-    "workbench.colorTheme": "Atom One Dark"
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.fontFamily": "Monaco",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    }
 }
 ```
