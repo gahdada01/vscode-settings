@@ -23,7 +23,7 @@
 #### Settings 2
 ```ruby
 {
-    // "editor.wordWrap": true,
+    "editor.wordWrap": true,
     "workbench.iconTheme": "vscode-icons",
     "window.zoomLevel": 0,
     "vsicons.projectDetection.autoReload": true,
